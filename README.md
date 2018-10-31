@@ -1,2 +1,2 @@
 # OneTravels-WEB
-Repository for One Travels PVT LTD Official Website Template
+Repository for One Travels & Tours Official Website Template
